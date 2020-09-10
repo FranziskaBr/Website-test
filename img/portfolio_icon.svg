@@ -1,0 +1,15 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.99 15.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>portfolio_icon</title>
+  <g>
+    <path class="cls-1" d="M426.57,488.19l2.44-7.24c.43-1,1-1.52,1.74-1.5h7.68v-.81a.89.89,0,0,0-.85-1h-10.2c-.48.06-.77.38-.8,1.1Z" transform="translate(-426.57 -475.48)"/>
+    <path class="cls-1" d="M437.73,490.73h-10.6c-.28,0-.42-.5-.28-.92l2.91-8.58a1,1,0,0,1,1-.72H441c.4,0,.71.27.46,1.09l-2.71,8C438.58,490.27,438.14,490.73,437.73,490.73Z" transform="translate(-426.57 -475.48)"/>
+    <path class="cls-1" d="M434.51,477.65v-.87c0-.56-.6-1.29-.87-1.29h-2.17c-.51,0-1,.78-1,1.44v.73h.73V477a.44.44,0,0,1,.31-.46h2c.17,0,.3.23.3.44v.71Z" transform="translate(-426.57 -475.48)"/>
+  </g>
+</svg>

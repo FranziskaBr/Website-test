@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 162.51 154.51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e02887;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        fill: #a3195b;
+      }
+
+      .cls-3 {
+        fill: #bb1f71;
+      }
+
+      .cls-4 {
+        fill: #a8dae7;
+      }
+    </style>
+  </defs>
+  <title>Logo_neu</title>
+  <g id="Rechteck_1" data-name="Rechteck 1">
+    <rect class="cls-1" x="526.77" y="316.04" width="139.33" height="138.53" rx="30.17" ry="30.17" transform="translate(-587.49 -172.4) rotate(-12.23)"/>
+  </g>
+  <g id="Rechteck_2" data-name="Rechteck 2">
+    <rect class="cls-2" x="10.34" y="6" width="139.33" height="138.53" rx="30.17" ry="30.17"/>
+  </g>
+  <g id="Rechteck_3" data-name="Rechteck 3">
+    <rect class="cls-3" x="535.27" y="314.93" width="139.33" height="138.53" rx="30.17" ry="30.17" transform="translate(-425.81 -425.4) rotate(12.05)"/>
+  </g>
+  <g id="F">
+    <path class="cls-4" d="M567.91,348.53,551.64,431.3h12.51l8.18-41.1h41.76c5.64,0,5.08-10.35.38-10.35h-39l3.2-20.5h46.28c7.05,0,7.43-10.63,0-10.63Z" transform="translate(-519.38 -307.55)"/>
+  </g>
+  <g id="B">
+    <path class="cls-4" d="M646.92,353c0-10.35-9.69-19.09-16.37-19.09l-37-.19L591.9,344h36.59c3.29,0,7.71,2.16,7.71,10.44-1,7.48-5.72,11.13-14.29,11.36a14.73,14.73,0,0,0-3.59-.45s-36.78-.56-36.49-.28l-1.41,10.72h36.12c3.86,0,8.37,3.67,8.37,11.1a9.27,9.27,0,0,1-9.45,9.45H575.62L569.42,432h12.13l5-25.87h28.69c8.47,0,20.13-5.74,20.13-19.47A25,25,0,0,0,632,373.55C639.29,373.46,646.92,365,646.92,353Z" transform="translate(-519.38 -307.55)"/>
+  </g>
+</svg>

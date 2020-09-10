@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.24 27.09">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a8dae7;
+      }
+
+      .cls-2 {
+        fill: #b32f7f;
+      }
+    </style>
+  </defs>
+  <title>icons</title>
+  <g id="Ebene_1" data-name="Ebene 1">
+    <rect class="cls-1" width="27.24" height="27.09" rx="5.9" ry="5.9"/>
+  </g>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <g>
+      <path class="cls-2" d="M63.07,76.35l3.16-5.81a2.6,2.6,0,0,1,2.26-1.21h9.95v-.65c0-.42-.39-.79-1.1-.79H64.14c-.62,0-1,.31-1,.88Z" transform="translate(-58.59 -58.73)"/>
+      <path class="cls-2" d="M77.53,78.38H63.81a.47.47,0,0,1-.36-.74l3.77-6.88a1.42,1.42,0,0,1,1.32-.57H81.77c.52,0,.93.21.59.87l-3.51,6.45A1.54,1.54,0,0,1,77.53,78.38Z" transform="translate(-58.59 -58.73)"/>
+      <path class="cls-2" d="M73.35,67.9v-.7c0-.45-.78-1-1.13-1H69.41a1.32,1.32,0,0,0-1.27,1.15v.58h.94v-.54a.41.41,0,0,1,.4-.37H72a.38.38,0,0,1,.39.35v.57Z" transform="translate(-58.59 -58.73)"/>
+    </g>
+  </g>
+</svg>

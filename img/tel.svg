@@ -1,0 +1,15 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.55 21.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b32f7f;
+      }
+    </style>
+  </defs>
+  <title>tel</title>
+  <g>
+    <rect class="cls-1" x="71" y="60.42" width="6.69" height="3.38" rx="0.53" ry="0.53" transform="translate(-4.66 -93.02) rotate(44.07)"/>
+    <rect class="cls-1" x="83.63" y="73.13" width="6.69" height="3.38" rx="0.53" ry="0.53" transform="translate(7.74 -98.23) rotate(44.07)"/>
+    <path class="cls-1" d="M69.58,62.09l5,4.88c-.93,2.26,2.47,4.74,2.47,4.74s3.17,3.63,5,2.7l5.08,5.08S81.52,82,73.8,74.27,69.58,62.09,69.58,62.09Z" transform="translate(-68.79 -58.79)"/>
+  </g>
+</svg>

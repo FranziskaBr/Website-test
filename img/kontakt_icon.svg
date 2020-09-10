@@ -1,0 +1,20 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.66 15.34">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #dadada;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <title>kontakt_icon</title>
+  <path class="cls-1" d="M435.64,467.15l-13.57,9.4a.54.54,0,0,0,.1.95l3.48,1.46s1.27,3.32,1.73,3.32,1.4-2,1.4-2l4.58,1.94a.54.54,0,0,0,.75-.41l2.38-14.1A.54.54,0,0,0,435.64,467.15Z" transform="translate(-421.84 -466.94)"/>
+  <line class="cls-2" x1="3.95" y1="11.81" x2="14.33" y2="0.25"/>
+  <line class="cls-2" x1="7.08" y1="13.1" x2="14.33" y2="0.25"/>
+</svg>
